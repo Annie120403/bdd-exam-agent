@@ -1,0 +1,20 @@
+[
+    {
+    "id": "T001",
+    "concept_ids": ["K001"],
+    "difficulty": "easy",
+    "type": "multiple_choice",
+    "question": "Quel est le rôle d'une clé primaire ?",
+    "options": {
+        "A": "Identifier chaque ligne de manière unique",
+        "B": "Autoriser les doublons",
+        "C": "Supprimer automatiquement les lignes",
+        "D": "Trier les lignes"
+    },
+    "answer": "A",
+    "explanation": "Une clé primaire identifie chaque ligne de manière unique.",
+    "source": "实际核验的PDF文件名.pdf",
+    "page": null,
+    "verified": true
+    }
+]

@@ -1,0 +1,46 @@
+
+[
+    {
+        "id": "K001",
+        "name": "Clé primaire",
+        "category": "Modèle relationnel",
+        "difficulty": "easy",
+        "difficulty_rank": 1,
+        "keywords": [
+            "clé primaire",
+            "primary key"
+        ]
+    },
+    {
+        "id": "K002",
+        "name": "Clé étrangère",
+        "category": "Modèle relationnel",
+        "difficulty": "easy",
+        "difficulty_rank": 1,
+        "keywords": [
+            "clé étrangère",
+            "foreign key"
+        ]
+    },
+    {
+        "id": "K003",
+        "name": "Dépendance fonctionnelle",
+        "category": "Normalisation",
+        "difficulty": "medium",
+        "difficulty_rank": 2,
+        "keywords": [
+            "dépendance fonctionnelle"
+        ]
+    },
+    {
+        "id": "K004",
+        "name": "Troisième forme normale",
+        "category": "Normalisation",
+        "difficulty": "hard",
+        "difficulty_rank": 3,
+        "keywords": [
+            "3NF",
+            "troisième forme normale"
+        ]
+    }
+]
